@@ -1,7 +1,7 @@
 # Renewable Energy Consumption in Europe: Insights Through Data Visualization
+### Created By: João Vieira, João Soares, Manuel Silva
 
 ## 1. Introduction  
-### Created By: João Vieira, João Soares, Manuel Silva
 Energy consumption in Europe has seen significant shifts in recent years, driven by a growing focus on sustainable energy sources. Europe consumes roughly 13,000 TWh of energy annually, with renewable sources — such as wind, solar, and hydropower — accounting for 22% to 24% of this total.  
 - **Sweden** leads with over 50% of its energy derived from renewables.  
 - **Fossil fuel dependency** remains significant in some regions, reflecting the diverse energy landscape.  
